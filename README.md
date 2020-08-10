@@ -1,0 +1,2 @@
+# OCR_
+We then applied the Tesseract program to test and evaluate the performance of the OCR engine on a very small set of example images.  As our results demonstrated, Tesseract works best when there is a (very) clean segmentation of the foreground text from the background. In practice, it can be extremely challenging to guarantee these types of segmentations. Hence, we tend to train domain-specific image classifiers and detectors.
